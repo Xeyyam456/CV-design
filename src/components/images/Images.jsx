@@ -1,5 +1,5 @@
 import React from 'react'
-import sekil from '../images/sekil.png'
+import sekil from '../..pictures/sekil.png'
 import './images.css'
 
 
