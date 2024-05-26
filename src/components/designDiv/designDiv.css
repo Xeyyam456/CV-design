@@ -1,0 +1,9 @@
+.main-container{
+    z-index: 0;
+    overflow: hidden;
+    background-color: #fff;
+    width: 75%;
+    height: 1100px;
+    transform: rotate(44deg) translate(-330px, -200px);
+    
+}
